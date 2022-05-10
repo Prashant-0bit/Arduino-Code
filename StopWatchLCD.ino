@@ -1,6 +1,5 @@
-//Jay Raut Jean Augustine Secondary
-//January 13 2020
-//625549@pdsb.net
+//this code run simple stopwatch using two push buttons and LCD display 
+//one button to start stopwatch and another for to stop
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27,16,2);
