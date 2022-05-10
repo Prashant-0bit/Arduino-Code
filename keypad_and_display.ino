@@ -1,3 +1,5 @@
+//Refer Circuit diagram for this code
+//All components are display there with specifications or names
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h>
